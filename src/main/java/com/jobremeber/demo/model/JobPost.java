@@ -1,9 +1,7 @@
 package com.jobremeber.demo.model;
 
 import java.util.List;
-
 import org.springframework.stereotype.Component;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import lombok.AllArgsConstructor;
